@@ -87,3 +87,8 @@
 
   # DynamoDB Local files
  .dynamodb/ 
+
+
+ config/
+ !config/test1
+ 
